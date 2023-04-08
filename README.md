@@ -12,7 +12,7 @@
 - [ ] Good Luck
 
 ## Round 1B 2013
-- [ ] Osmos
+- [x] Osmos
 - [ ] Garbled Email
 - [ ] Falling Diamonds
 
