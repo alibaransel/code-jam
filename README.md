@@ -10,3 +10,9 @@
 - [x] Bullseye
 - [ ] Manage your Energy
 - [ ] Good Luck
+
+## Round 1B 2013
+- [ ] Osmos
+- [ ] Garbled Email
+- [ ] Falling Diamonds
+
