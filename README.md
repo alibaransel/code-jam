@@ -14,5 +14,5 @@
 ## Round 1B 2013
 - [x] Osmos
 - [ ] Garbled Email
-- [ ] Falling Diamonds
+- [x] Falling Diamonds
 
